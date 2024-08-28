@@ -8,6 +8,7 @@ The program uses libraries to manage file IO (tkinter), pixel sort (numpy) and i
 <li>Experience real time sort</li>
 <li>Adjust window dimensions</li>
 <li>Use scrolling to view bigger images</li>
+<li> </li>
 
 
 *TODO:*
